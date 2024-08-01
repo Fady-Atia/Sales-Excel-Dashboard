@@ -28,7 +28,9 @@ This repository contains a sales dashboard created in Excel, designed to provide
 Bar chart showing the total number of different products sold (e.g., Orange, Mango, Carrots, etc.).
 ![product barchart ](https://github.com/Fady-Atia/Sales-Excel-Dashboard/blob/main/product%20%20bar%20chart%20.png)
 
-Regional Sales: Bar chart showing sales distribution across different regions (East, North, South, West) and countries (Australia, Canada, France, Germany, New Zealand, UK, US).
+Regional Sales: Bar chart showing sales distribution across different regions (East, North, South, West) 
+and countries (Australia, Canada, France, Germany, New Zealand, UK, US).
+
 ![product barchart ](https://github.com/Fady-Atia/Sales-Excel-Dashboard/blob/main/country%20and%20region%20barchart%20.png)
 
 
